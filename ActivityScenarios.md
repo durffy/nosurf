@@ -7,4 +7,7 @@ John Smith is a student at university-- he finds that he is unable to stay focus
 John smith opens up his browser and automatically types reddit.com. Upon entering, John gets a blocked site message with a list of tasks that he has previouly setup. Instead of going to reddit, he is able to identify the cue (opening the browser), replace the normal routine of browsing reddit with a relevant task list, and reward himself by processing the tasks he knows he needs to complete.
 
 ## Scenario 1: Activity 2
-John Smith does not know exactly what sites he is wasting time on.. tbc
+John Smith does not know exactly what sites he is wasting time on.. tb
+
+## Scenario 1: Activity 3
+John Smith needs to access only specific website resources and not get distracted by the other things the site has to offer
